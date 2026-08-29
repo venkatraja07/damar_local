@@ -1,9 +1,9 @@
 This is an experimental feature
-<<<<<<< HEAD
+
 sss
 =======
 Adding a cool new feature update!
 Adding a cool new feature update!
 Added from new branch_27thaug
 29
->>>>>>> main
+dds
